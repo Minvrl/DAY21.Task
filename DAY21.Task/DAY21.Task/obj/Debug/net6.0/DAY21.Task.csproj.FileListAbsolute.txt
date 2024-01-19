@@ -1,0 +1,15 @@
+C:\Users\mulayimen\source\repos\DAY21.Task\DAY21.Task\bin\Debug\net6.0\DAY21.Task.exe
+C:\Users\mulayimen\source\repos\DAY21.Task\DAY21.Task\bin\Debug\net6.0\DAY21.Task.deps.json
+C:\Users\mulayimen\source\repos\DAY21.Task\DAY21.Task\bin\Debug\net6.0\DAY21.Task.runtimeconfig.json
+C:\Users\mulayimen\source\repos\DAY21.Task\DAY21.Task\bin\Debug\net6.0\DAY21.Task.dll
+C:\Users\mulayimen\source\repos\DAY21.Task\DAY21.Task\bin\Debug\net6.0\DAY21.Task.pdb
+C:\Users\mulayimen\source\repos\DAY21.Task\DAY21.Task\obj\Debug\net6.0\DAY21.Task.csproj.AssemblyReference.cache
+C:\Users\mulayimen\source\repos\DAY21.Task\DAY21.Task\obj\Debug\net6.0\DAY21.Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mulayimen\source\repos\DAY21.Task\DAY21.Task\obj\Debug\net6.0\DAY21.Task.AssemblyInfoInputs.cache
+C:\Users\mulayimen\source\repos\DAY21.Task\DAY21.Task\obj\Debug\net6.0\DAY21.Task.AssemblyInfo.cs
+C:\Users\mulayimen\source\repos\DAY21.Task\DAY21.Task\obj\Debug\net6.0\DAY21.Task.csproj.CoreCompileInputs.cache
+C:\Users\mulayimen\source\repos\DAY21.Task\DAY21.Task\obj\Debug\net6.0\DAY21.Task.dll
+C:\Users\mulayimen\source\repos\DAY21.Task\DAY21.Task\obj\Debug\net6.0\refint\DAY21.Task.dll
+C:\Users\mulayimen\source\repos\DAY21.Task\DAY21.Task\obj\Debug\net6.0\DAY21.Task.pdb
+C:\Users\mulayimen\source\repos\DAY21.Task\DAY21.Task\obj\Debug\net6.0\DAY21.Task.genruntimeconfig.cache
+C:\Users\mulayimen\source\repos\DAY21.Task\DAY21.Task\obj\Debug\net6.0\ref\DAY21.Task.dll

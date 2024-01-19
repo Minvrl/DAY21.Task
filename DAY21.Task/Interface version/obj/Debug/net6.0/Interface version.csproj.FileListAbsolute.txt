@@ -1,0 +1,15 @@
+C:\Users\mulayimen\source\repos\DAY21.Task\Interface version\bin\Debug\net6.0\Interface version.exe
+C:\Users\mulayimen\source\repos\DAY21.Task\Interface version\bin\Debug\net6.0\Interface version.deps.json
+C:\Users\mulayimen\source\repos\DAY21.Task\Interface version\bin\Debug\net6.0\Interface version.runtimeconfig.json
+C:\Users\mulayimen\source\repos\DAY21.Task\Interface version\bin\Debug\net6.0\Interface version.dll
+C:\Users\mulayimen\source\repos\DAY21.Task\Interface version\bin\Debug\net6.0\Interface version.pdb
+C:\Users\mulayimen\source\repos\DAY21.Task\Interface version\obj\Debug\net6.0\Interface version.csproj.AssemblyReference.cache
+C:\Users\mulayimen\source\repos\DAY21.Task\Interface version\obj\Debug\net6.0\Interface version.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mulayimen\source\repos\DAY21.Task\Interface version\obj\Debug\net6.0\Interface version.AssemblyInfoInputs.cache
+C:\Users\mulayimen\source\repos\DAY21.Task\Interface version\obj\Debug\net6.0\Interface version.AssemblyInfo.cs
+C:\Users\mulayimen\source\repos\DAY21.Task\Interface version\obj\Debug\net6.0\Interface version.csproj.CoreCompileInputs.cache
+C:\Users\mulayimen\source\repos\DAY21.Task\Interface version\obj\Debug\net6.0\Interface version.dll
+C:\Users\mulayimen\source\repos\DAY21.Task\Interface version\obj\Debug\net6.0\refint\Interface version.dll
+C:\Users\mulayimen\source\repos\DAY21.Task\Interface version\obj\Debug\net6.0\Interface version.pdb
+C:\Users\mulayimen\source\repos\DAY21.Task\Interface version\obj\Debug\net6.0\Interface version.genruntimeconfig.cache
+C:\Users\mulayimen\source\repos\DAY21.Task\Interface version\obj\Debug\net6.0\ref\Interface version.dll
